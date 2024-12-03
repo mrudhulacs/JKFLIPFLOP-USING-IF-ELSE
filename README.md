@@ -8,7 +8,7 @@ To implement  JK flipflop using verilog and validating their functionality using
 
 Quartus prime
 
-**THEORY**
+
 
 **JK Flip-Flop**
 
@@ -34,15 +34,42 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 
 **Procedure**
 
-/* write all the steps invloved */
+1.Type the program in Quartus software.
+
+2.Compile and run the program.
+
+3.Generate the RTL schematic and save the logic diagram.
+
+4.Create nodes for inputs and outputs to generate the timing diagram.
+
+5.For different input combinations generate the timing diagram.
 
 **PROGRAM**
 
-/* Program for flipflops and verify its truth table in quartus using Verilog programming. Developed by: RegisterNumber:
+/* Program for flipflops and verify its truth table in quartus using Verilog programming. 
+
+Developed by:CHITTOOR SARAVANA MRUDHULA                           
+RegisterNumber:24003790
+
+
 */
+
+
 
 **RTL LOGIC FOR FLIPFLOPS**
 
+![Screenshot 2024-12-03 023732](https://github.com/user-attachments/assets/57da416f-0c8a-42e4-9582-16ba26ff3213)
+
+
+
+
 **TIMING DIGRAMS FOR FLIP FLOPS**
 
+![Screenshot 2024-12-03 024624](https://github.com/user-attachments/assets/147fffc4-5922-414f-83ac-e1611413766d)
+
+
 **RESULTS**
+
+JK flipflop using verilog and validating their functionality using their functional tables IS verifeid.
+
+

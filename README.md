@@ -77,19 +77,19 @@ module jk_ff (j, k, clk, rst, q);
 
 
 
-**RTL LOGIC FOR FLIPFLOPS**
+**RTL LOGIC FOR FLIPFLOP**
 
 ![Screenshot 2024-12-03 023732](https://github.com/user-attachments/assets/57da416f-0c8a-42e4-9582-16ba26ff3213)
 
 
 
 
-**TIMING DIGRAMS FOR FLIP FLOPS**
+**TIMING DIAGRAM FOR FLIP FLOP**
 
 ![Screenshot 2024-12-03 024624](https://github.com/user-attachments/assets/147fffc4-5922-414f-83ac-e1611413766d)
 
 
-**RESULTS**
+**RESULT**
 
 JK flipflop using verilog and validating their functionality using their functional tables IS verifeid.
 
